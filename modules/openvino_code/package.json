@@ -88,7 +88,7 @@
     "webpack-cli": "5.1.4"
   },
   "dependencies": {
-    "lru-cache": "10.0.1",
+    "lru-cache": "10.4.3",
     "mustache": "4.2.0",
     "node-fetch": "3.3.2"
   },
